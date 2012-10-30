@@ -1,0 +1,68 @@
+
+sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button
+  rotate: false
+  xy: 2, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: 2
+button
+  rotate: false
+  xy: 49, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: 1
+jetpackrobot
+  rotate: false
+  xy: 96, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+key
+  rotate: false
+  xy: 130, 2
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+rightArrow
+  rotate: false
+  xy: 148, 2
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: 2
+rightArrow
+  rotate: false
+  xy: 225, 2
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: 1
+leftArrow
+  rotate: false
+  xy: 302, 2
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: 2
+leftArrow
+  rotate: false
+  xy: 379, 2
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: 1
+grassPlatform
+  rotate: false
+  xy: 148, 36
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
